@@ -1,5 +1,6 @@
 <resources>
     <string name="app_name">CallRoulette</string>
-    <string name="app_capability_url"></string>
-    <string name="app_hangup_url"></string>
+    <!--TODO:rehook the app with a valid number from Twilio-->
+    <string name="app_capability_url">https://chatroulette-server.herokuapp.com//token</string>
+    <string name="app_hangup_url">https://chatroulette-server.herokuapp.com//hangup</string>
 </resources>
