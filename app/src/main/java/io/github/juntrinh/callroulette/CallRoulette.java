@@ -2,14 +2,11 @@ package io.github.juntrinh.callroulette;
 
 import android.content.Context;
 import android.util.Log;
-
 import com.twilio.client.Connection;
 import com.twilio.client.Device;
 import com.twilio.client.Twilio;
-
 import org.apache.http.client.methods.HttpGet;
 import org.apache.http.client.methods.HttpUriRequest;
-
 import java.util.HashMap;
 import java.util.Map;
 
